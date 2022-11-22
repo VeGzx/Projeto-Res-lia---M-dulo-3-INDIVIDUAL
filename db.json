@@ -1,0 +1,97 @@
+
+{
+    "Lançamentos": [ 
+      {
+        "id": 1,
+        "Título": "THE BATMAN",
+        "Lançamento": 2022,
+        "Descrição": "Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.",
+        "Diretor": "Matt Reeves"
+      },
+      {
+        "Título": "Halloween Ends",
+        "Lançamento": 2022,
+        "Descrição": "Quatro anos após os eventos do Halloween Kills do ano passado, Laurie está morando com sua neta Allyson e está terminando de escrever suas memórias.",
+        "Diretor": "David Gordon Green",
+        "id": 2
+      },
+      {
+        "Título": "CONVITE MALDITO",
+        "Lançamento": 2022,
+        "Descrição": "Uma moça fica encantada ao ser cortejada, mas, aos poucos, percebe que esse encanto é fruto de uma conspiração gótica que está em progresso.",
+        "Diretor": "Jessica M. Thompson",
+        "id": 3
+      },
+      {
+        "Título": "HOMEM-ARANHA:",
+        "Lançamento": 2022,
+        "Descrição": "Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado.",
+        "Diretor": "Jon Watts",
+        "id": 4
+      },
+      {
+        "Título": "TOP GUN: MAVERICK",
+        "Lançamento": 2022,
+        "Descrição": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete Maverick Mitchell está de volta,.",
+        "Diretor": "Joseph Kosinski ",
+        "id": 5
+      }
+    ],
+
+      
+    "Cinemas_locais": [
+        {
+          "estado": "SP",
+          "local": "Vila Mariana",
+          "id": 1
+        },
+        {
+          "estado": "RJ",
+          "local": "Barra da tijuca",
+          "id": 2
+        },
+        {
+          "estado": "MG",
+          "local": "Monte alegre",
+          "id": 3
+        },
+        {
+          "estado": "MA",
+          "local": "Alagoas",
+          "id": 4
+        }
+      ],
+
+
+    "Valores": [
+      {
+        "sala": 3,
+        "Projeção": "S/N Dub",
+        "valorMeia": "R$10,00",
+        "valorInteira": "R$20,00",
+        "id": 1
+      },
+      {
+        "sala": 6,
+        "Projeção": "3D Dub",
+        "valor_Meia": "R$14,00",
+        "valor_Inteira": "R$28,00",
+        "id": 2
+      },
+      {
+        "sala": 9,
+        "Projeção": "3D Leg",
+        "valor_Meia": "R$13,00",
+        "valor_Inteira": "R$26,00",
+        "id": 3
+      },
+      {
+        "sala": 12,
+        "Projeção": "3D Leg Premium",
+        "valor_Meia": "R$15,00",
+        "valor_Inteira": "R$30,00",
+        "id": 4
+      }
+    ]
+}
+
