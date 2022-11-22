@@ -1,6 +1,8 @@
 
 # Projeto Resília - Módulo 3 INDIVIDUAL ⚜️
 
+Site Funcionando> https://projeto-mod-3-finnaly.onrender.com <
+
 Projeto constituído em Desenvolver um servidor json (Json-server) onde
 irá conter 3 rotas com 4+ dados nas quais o
 usuário poderá realizar o GET, POST, PUT,
