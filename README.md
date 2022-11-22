@@ -14,9 +14,10 @@ porém para achar referências dos filmes, nomes de diretores, e descrição ao 
 de Duas Horas.
 
 
-## Screenshots
+## Screenshots/Site Funcionando
 
-https://prnt.sc/4rkdf51denAJ)
+![Screenshot_1](https://user-images.githubusercontent.com/100248057/203187433-6c3ee275-1ca3-40bf-ad6d-e33849e5241a.png)
+
 
 
 ## Stack utilizada
