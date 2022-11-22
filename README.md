@@ -16,7 +16,7 @@ de Duas Horas.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://prnt.sc/4rkdf51denAJ)
 
 
 ## Stack utilizada
